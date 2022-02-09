@@ -19,5 +19,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
 
-[assembly: MelonInfo(typeof(PhotonLogFull.PhotonLogFull), "PhotonLogFull", "1.1", "Confluence#8082")]
+[assembly: MelonInfo(typeof(PhotonLogFull.PhotonLogFull), "PhotonLogFull", "1.1", "Slaynash#2879 & some Confluence#8082")]
 [assembly: MelonGame("VRChat", "VRChat")]
